@@ -1,0 +1,11 @@
+# Ignore raw datasets
+dataset/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment files
+.venv/
+venv/
+.env

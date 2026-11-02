@@ -1,0 +1,6 @@
+Model,MAE,RMSE
+Constant Baseline,750.63,884.48
+Linear Regression,809.12,929.58
+Random Forest,854.47,997.2
+Previous Price,912.73,1131.38
+Lag Linear Regression,768.85,920.43
